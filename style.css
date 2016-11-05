@@ -1,0 +1,124 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  background: #426f74;
+}
+
+.container{
+  width: 600px;
+  margin: auto;
+}
+
+header {
+
+}
+
+header img {
+  width: 100px;
+  margin: 20px 0;
+}
+
+
+/*ini menu*/
+menu{
+  overflow: hidden;
+}
+menu ul{
+  list-style: none;
+}
+
+menu ul li a{
+  float: left;
+  width: 150px;
+  background-color: red;
+  padding: 10px 0;
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+menu ul li a:hover {
+  background-color: #630202;
+  color:#b4dac1;
+}
+
+/*ini artikel*/
+article{
+
+}
+
+article img {
+  width: 200px;
+  margin-top: 10px;
+  float: left;
+  padding-right: 10px;
+}
+
+article p{
+  text-align: justify;
+}
+
+/*ini footer*/
+footer {
+  margin-top: 20px;
+  background: red;
+  height: 60px;
+  line-height: 60px;
+  padding-left: 20px;
+  color: white;
+}
+
+
+/*ini article profile*/
+.articleProfile{
+ overflow: hidden;
+}
+
+.articleProfile .articleLeft{
+  width: 200px;
+  float: left;
+  /*overflow: hidden;*/
+}
+
+.articleProfile .articleRight{
+  width: 380px;
+  float: right;
+  /*overflow: hidden;*/
+}
+
+
+.articleTabel {
+  margin-top: 20px;
+}
+
+.articleTabel table{
+
+}
+
+.articleTabel table th {
+  width: 100px;
+}
+
+
+
+
+/*general*/
+input[type=text]{
+  width: 600px;
+  height: 50px;
+}
+
+input[type=email]{
+  width: 600px;
+  height: 50px;
+}
+
+input[type=button]{
+  width: 600px;
+  height: 50px;
+  background-color: red;
+  margin-top: 10px;
+}

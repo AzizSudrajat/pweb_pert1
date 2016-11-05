@@ -1,0 +1,3 @@
+Dapatkan kupon belanja senilai Rp 100,000 untuk setiap member baru dan menikmati sederet keuntungan eklusif poin Blibli reward sebagai member
+Hint: Sandi harus setidaknya terdiri dari 6 karakter dan mencangkup kombinasi huruf dan angka.
+<p>Dengan Klik <b>Daftar</b>. Anda telah menyetuji <a href="">Syarat & Ketentuan</a></p>
